@@ -11,7 +11,7 @@
 
 ### 1. Executive Summary
 
-This repository is a comprehensive engineering case study of the custom ecosystem I built for producing professional-grade AI digital art. My creative work, which involves self-insertion deepfakes into iconic Bollywood scenes for my **[@wholeface_](https://www.instagram.com/wholeface_)** portfolio (9.5k+ followers), demanded a level of performance and stability that off-the-shelf tools could not provide.
+This repository is a comprehensive engineering case study of the custom ecosystem I built for producing professional-grade AI digital art. My creative work, which involves self-insertion deepfakes into iconic Bollywood scenes for my **[@wholeface_](https://www.instagram.com/wholeface_)** portfolio (10k+ followers), demanded a level of performance and stability that off-the-shelf tools could not provide.
 
 To solve this, I engineered a complete, end-to-end solution spanning custom hardware, a meticulously documented production workflow, and a data-driven model training methodology. This document details the engineering decisions, technical processes, and expert knowledge developed over hundreds of hours of hands-on work.
 
